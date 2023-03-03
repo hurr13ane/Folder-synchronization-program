@@ -1,0 +1,15 @@
+Copied F:\CODING\test-sync\sync1\20211019_133548(1)-01 - Copy.jpeg to F:\CODING\test-sync\sync2\20211019_133548(1)-01 - Copy.jpeg
+Copied F:\CODING\test-sync\sync1\20211019_133548(1)-01 - Copy - Copy.jpeg to F:\CODING\test-sync\sync2\20211019_133548(1)-01 - Copy - Copy.jpeg
+Removed F:\CODING\test-sync\sync2\20211019_133548(1)-01 - Copy.jpeg
+Removed F:\CODING\test-sync\sync2\20211019_133548(1)-01 - Copy - Copy.jpeg
+Removed F:\CODING\test-sync\sync2\20211019_133548(0)-01.jpeg
+Copied F:\CODING\test-sync\sync1\20211019_133548(0)-01 - Copy - Copy.jpeg to F:\CODING\test-sync\sync2\20211019_133548(0)-01 - Copy - Copy.jpeg
+Removed F:\CODING\test-sync\sync2\20211019_133548(0)-01 - Copy.jpeg
+Copied F:\CODING\test-sync\sync1\20211019_133548(0)-01 - Copy - Copy - Copy.jpeg to F:\CODING\test-sync\sync2\20211019_133548(0)-01 - Copy - Copy - Copy.jpeg
+Copied F:\CODING\test-sync\sync1\20211019_133548(1)-01 - Copy - Copy - Copy.jpeg to F:\CODING\test-sync\sync2\20211019_133548(1)-01 - Copy - Copy - Copy.jpeg
+Copied F:\CODING\test-sync\sync1\20211019_133548(2)-01 - Copy - Copy - Copy.jpeg to F:\CODING\test-sync\sync2\20211019_133548(2)-01 - Copy - Copy - Copy.jpeg
+Copied F:\CODING\test-sync\sync1\20211019_133548(2)-01 - Copy - Copy - Copy - Copy.jpeg to F:\CODING\test-sync\sync2\20211019_133548(2)-01 - Copy - Copy - Copy - Copy.jpeg
+Copied F:\CODING\test-sync\sync1\20211019_133548(3)-01 - Copy - Copy - Copy - Copy.jpeg to F:\CODING\test-sync\sync2\20211019_133548(3)-01 - Copy - Copy - Copy - Copy.jpeg
+Removed F:\CODING\test-sync\sync2\20211019_133548(3)-01 - Copy - Copy - Copy - Copy.jpeg
+Copied F:\CODING\test-sync\sync1\20211019_133548(3)-01 - Copy - Copy - Copy - Copy.jpeg to F:\CODING\test-sync\sync2\20211019_133548(3)-01 - Copy - Copy - Copy - Copy.jpeg
+Removed F:\CODING\test-sync\sync2\20211019_133548(3)-01 - Copy - Copy - Copy - Copy.jpeg
